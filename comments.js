@@ -1,4 +1,4 @@
-// start web server: node comments.js
+// Create web server
 // test: curl -d "comment=hello" http://localhost:3000/comments
 // test: curl http://localhost:3000/comments
 
